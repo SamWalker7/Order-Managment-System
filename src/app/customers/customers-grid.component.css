@@ -1,0 +1,14 @@
+.grid-container  div {
+    padding-left: 0px;
+}
+
+.grid-container td {
+    vertical-align: middle;
+}
+
+.grid-image {
+    height:50px;width:50px;margin-top:10px;
+}
+.vs{
+    color:rgb(83, 235, 129);
+}
